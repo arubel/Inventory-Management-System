@@ -1,0 +1,4 @@
+1,’IceCream’,25,18
+2,’Notebook’,30,10
+3,’Biscuit’, 23,14
+4,’Candy’,32,20
